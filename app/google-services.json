@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "867700596587",
+    "firebase_url": "https://mobile-project-gori.firebaseio.com",
+    "project_id": "mobile-project-gori",
+    "storage_bucket": "mobile-project-gori.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867700596587:android:ea0ff5b5b6070b8e",
+        "android_client_info": {
+          "package_name": "firebaseapp.android.goriguilherme.com.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867700596587-quffl0fgga3tpemdvtnrfsjlqqpihqtp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firebaseapp.android.goriguilherme.com.firebaseapp",
+            "certificate_hash": "b1a6f05d56493f94a543d2fcec9e5c51ba1fa29e"
+          }
+        },
+        {
+          "client_id": "867700596587-tqkf719os5erhneg07cepfhjeo444963.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvPNYlKYAbdoAE4qAlINTdLkI21wt7dAo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867700596587-tqkf719os5erhneg07cepfhjeo444963.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
